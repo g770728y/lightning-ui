@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.7239a48d.chunk.css",
-  "main.js": "/static/js/main.31631d77.chunk.js",
-  "main.js.map": "/static/js/main.31631d77.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/static/js/2.5bf9b2cd.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.0c0698adedcefed558103dce6ce0cbd0.js": "/precache-manifest.0c0698adedcefed558103dce6ce0cbd0.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.7239a48d.chunk.css.map": "/static/css/main.7239a48d.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/lightning-ui/static/css/main.7239a48d.chunk.css",
+  "main.js": "/lightning-ui/static/js/main.e44c09db.chunk.js",
+  "main.js.map": "/lightning-ui/static/js/main.e44c09db.chunk.js.map",
+  "runtime~main.js": "/lightning-ui/static/js/runtime~main.a18220dd.js",
+  "runtime~main.js.map": "/lightning-ui/static/js/runtime~main.a18220dd.js.map",
+  "static/js/2.5bf9b2cd.chunk.js": "/lightning-ui/static/js/2.5bf9b2cd.chunk.js",
+  "static/js/2.5bf9b2cd.chunk.js.map": "/lightning-ui/static/js/2.5bf9b2cd.chunk.js.map",
+  "index.html": "/lightning-ui/index.html",
+  "precache-manifest.d46ce78eda2e83ff6ac2d5dc00bf088a.js": "/lightning-ui/precache-manifest.d46ce78eda2e83ff6ac2d5dc00bf088a.js",
+  "service-worker.js": "/lightning-ui/service-worker.js",
+  "static/css/main.7239a48d.chunk.css.map": "/lightning-ui/static/css/main.7239a48d.chunk.css.map",
+  "static/media/logo.svg": "/lightning-ui/static/media/logo.5d5d9eef.svg"
 }

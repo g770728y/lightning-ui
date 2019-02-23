@@ -1,8 +1,8 @@
 # @g770728y/lightning-ui
 
-> 快速制作后台管理系统的ui, 初始目的是用于lightning快速开发平台, 也可用于任何react + antd 的后台系统
+> 快速制作后台管理系统的 ui, 初始目的是用于 lightning 快速开发平台, 也可用于任何 react + antd 的后台系统
 
-[![NPM](https://img.shields.io/npm/v/@g770728y/lightning-ui.svg)](https://www.npmjs.com/package/@g770728y/lightning-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[Demo](http://g770728y.github.io/lightning-ui)
 
 ## Install
 
@@ -13,15 +13,13 @@ npm install --save @g770728y/lightning-ui
 ## Usage
 
 ```tsx
-import * as React from 'react'
+import * as React from 'react';
 
-import MyComponent from '@g770728y/lightning-ui'
+import MyComponent from '@g770728y/lightning-ui';
 
 class Example extends React.Component {
-  render () {
-    return (
-      <MyComponent />
-    )
+  render() {
+    return <MyComponent />;
   }
 }
 ```

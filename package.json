@@ -23,6 +23,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "dependencies": {
+    "ramda": "^0.26.1",
     "styled-components": "^4.1.3"
   },
   "peerDependencies": {
@@ -34,6 +35,7 @@
     "@storybook/react": "^4.1.13",
     "@svgr/rollup": "^2.4.1",
     "@types/jest": "24.0.6",
+    "@types/ramda": "^0.25.50",
     "@types/react": "^16.3.13",
     "@types/react-dom": "^16.0.5",
     "@types/storybook__react": "^4.0.1",
